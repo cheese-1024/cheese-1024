@@ -2,12 +2,13 @@
 
 # Hello, I'm Tommy, aka Cheese 👋
 
-## I often help out in the [Minecraft][mcdiscord] discord server, and the [Minecraft Community Support Server][mccs]. I also develop websites and Python programs too!
+## I often help out in the [Minecraft][mcdiscord] discord server, and the [Minecraft Community Support Server][mccs]. I also like to draw vector art, develop websites and develop Python programs too!
 
 - I like to find new ways to solve problems.
 - 2022 Goals: Contribute more on GitHub.
 - I'm interested in Computer Science, and Engineering. I aspire to be an engineer working in the Aerospace industry.
 - I also like to play flight simulators, and DJ in my spare time.
+- I drew my profile picture and banner you see above in Affinity Designer myself!
 
 ### Languages and Tools:
 <div style="display:flex">

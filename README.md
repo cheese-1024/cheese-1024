@@ -1,3 +1,5 @@
+<img src="Cheese Banner Alternate.png"/>
+
 # Hello, I'm Tommy, aka Cheese 👋
 
 ## I often help out in the [Minecraft][mcdiscord] discord server, and the [Minecraft Community Support Server][mccs]. I also develop websites and Python programs too!

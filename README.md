@@ -14,6 +14,7 @@
   <img style="align:left;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/2048px-Clion.svg.png" alt="JetBrains CLion" width=70px/>
 <img style="align:left;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" alt="JetBrains PyCharm" width=70px/>
   <img style="align:left;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="python" width=70px>
+<img style="align:left;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width=70px>
 </div>
 <br />
 <br />

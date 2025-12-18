@@ -1,14 +1,8 @@
 <img src="Cheese Banner Alternate.png"/>
 
-# Hello, I'm Tommy, aka Cheese 👋
+# Hello, I'm Tommy
 
-## I often help out in the [Minecraft][mcdiscord] discord server, and the [Minecraft Community Support Server][mccs]. I also like to draw vector art, develop websites and develop Python programs too!
-
-- I like to find new ways to solve problems.
-- 2022 Goals: Contribute more on GitHub.
-- I'm interested in Computer Science, and Engineering. I aspire to be an engineer working in the Aerospace industry.
-- I also like to play flight simulators, and DJ in my spare time.
-- I drew my profile picture and banner you see above in Affinity Designer myself!
+## I am an apprentice in Software Engineering, specifically C++. I also like to draw vector art (I made my profile picture and banner), develop websites and develop Python programs.
 
 ### Languages and Tools:
 <div style="display:flex">
@@ -24,6 +18,3 @@
 <br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheese-1024)](https://github.com/anuraghazra/github-readme-stats)
-
-[mcdiscord]: https://discord.gg/minecraft
-[mccs]: https://discord.gg/58Sxm23
